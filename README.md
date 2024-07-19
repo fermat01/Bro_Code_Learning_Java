@@ -31,7 +31,7 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 12.  while loop 🔄
 13.  for loop ➰
 14.  nested loops ➿
-15   arrays 🚗
+15.   arrays 🚗
 16. 2D arrays 🚚
 17   String methods 💬
 18.  wrapper classes 🎁
