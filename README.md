@@ -16,13 +16,13 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 
 **Table of Contents**
 
-#1   (00:00:00)  Java tutorial for beginners ☕
-#2   (00:20:26)  variables ❌   
-#3   (00:32:58)  swap two variables 💱
-#4   (00:36:42)  user input ⌨️
-#5   (00:44:40)  expressions 🧮
-#6   (00:49:13)  GUI intro 🚩   
-#7   (00:55:01)  Math class 📐   
+1.   (00:00:00)  Java tutorial for beginners ☕
+2.   (00:20:26)  variables ❌   
+3.   (00:32:58)  swap two variables 💱
+4.   (00:36:42)  user input ⌨️
+5.   (00:44:40)  expressions 🧮
+6.   (00:49:13)  GUI intro 🚩   
+7.   (00:55:01)  Math class 📐   
 #8   (01:01:08)  random numbers 🎲
 #9   (01:05:39)  if statements 🚧
 #10 (01:11:51)    switches ⬇
