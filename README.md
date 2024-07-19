@@ -16,19 +16,20 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 
 **Table of Contents**
 
-1.     Java tutorial for beginners ☕
-2.     variables ❌   
-3.     swap two variables 💱
-4.      user input ⌨️
-5.     expressions 🧮
-6.     GUI intro 🚩   
-7.     Math class 📐   
-8.     random numbers 🎲
-9.     if statements 🚧
-10.    switches ⬇
-11.    logical operators ❗
-12.    while loop 🔄
-13.    for loop ➰
+
+1.  Java tutorial for beginners ☕
+2.   variables ❌   
+3.   swap two variables 💱
+4.  user input ⌨️
+5.   expressions 🧮
+6.   GUI intro 🚩   
+7.  Math class 📐   
+8.  random numbers 🎲
+9.  if statements 🚧
+10.  switches ⬇
+11.  logical operators ❗
+12.  while loop 🔄
+13.  for loop ➰
 14.    nested loops ➿
 15     arrays 🚗
 16.    2D arrays 🚚
