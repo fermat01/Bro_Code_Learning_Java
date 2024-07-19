@@ -16,6 +16,10 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 
 **Table of Contents**
 
+<ol>
+  <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/2_3_variables/Main.java'>variables ❌</li>
+
+<ol>
 
 1.  Java tutorial for beginners ☕
 2.   variables ❌   
@@ -34,68 +38,68 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 15.   arrays 🚗
 16. 2D arrays 🚚
 17   String methods 💬
-18.  wrapper classes 🎁
-19. ArrayList 🧾
-20.  2D ArrayList 📜
-21. for-each loop 🔃
-22.   methods 📞
-23.   overloaded methods ☎️
-24.   printf 🖨️
-25.   final keyword ⛔
-26.  objects (OOP) ☕
-27.   constructors 👷
-28. variable scope 🌍
-29.   overloaded constructors 🍕
-30.   toString method 🎉
-31.   array of objects 🍱
-32.   object passing 🏬
-33.    static keyword ⚡
-34.  inheritance 👪
-35.   method overriding 🙅‍♂️
-36.  super keyword 🦸‍♂️
-37.  abstraction 👻
-38.  access modifiers 🔒
-39.   encapsulation 💊
-40.   copy objects 🖨️
-41.   interface 🦅
-42. polymorphism 🏁
-43.  dynamic polymorphism ✨
-44.  exception handling ⚠️
-45.  File class 📁
-46.  FileWriter (write to a file) 📝
-47.   FileReader (read a file) 📖
-48.   audio 🔊
-49.  GUI 🖼️
-50.   labels 👨‍💻
-51.   panels 🟥
-52.  buttons 🛎️
-53.   BorderLayout 🧭
-54.   FlowLayout 🌊
-55.   GridLayout 🔳
-56. LayeredPane 📚
-57.   open a new GUI window 🗔
-58.   JOptionPane 🛑
-59.  textfield 📛
-60.  checkbox ✔️
-61.   radio buttons 🔘
-62.   combobox 📑
-63.   slider 🌡️
-64.   progress bar 📊
-65.   menubar 🗄️
-66.   select a file 🔎
-67.   color chooser 🎨
-68.   KeyListener 🚀
-69.   MouseListener 🖱️
-70.   drag and drop 👈
-71.   key bindings ⌨️
-72.   2D graphics 🖍️
-73.   2D animation 👾
-74.  generics ❓
-75.   serialization 🥣
-76.   TimerTask ⌚
-77.  threads 🧵
-78.   multithreading 🧶
-79.   packages 📦
-80.   compile/run command prompt 💽
-81.  executable (.jar) ☕
+1.   wrapper classes 🎁
+2.  ArrayList 🧾
+3.   2D ArrayList 📜
+4.  for-each loop 🔃
+5.    methods 📞
+6.    overloaded methods ☎️
+7.    printf 🖨️
+8.    final keyword ⛔
+9.   objects (OOP) ☕
+10.   constructors 👷
+11. variable scope 🌍
+12.   overloaded constructors 🍕
+13.   toString method 🎉
+14.   array of objects 🍱
+15.   object passing 🏬
+16.    static keyword ⚡
+17.  inheritance 👪
+18.   method overriding 🙅‍♂️
+19.  super keyword 🦸‍♂️
+20.  abstraction 👻
+21.  access modifiers 🔒
+22.   encapsulation 💊
+23.   copy objects 🖨️
+24.   interface 🦅
+25. polymorphism 🏁
+26.  dynamic polymorphism ✨
+27.  exception handling ⚠️
+28.  File class 📁
+29.  FileWriter (write to a file) 📝
+30.   FileReader (read a file) 📖
+31.   audio 🔊
+32.  GUI 🖼️
+33.   labels 👨‍💻
+34.   panels 🟥
+35.  buttons 🛎️
+36.   BorderLayout 🧭
+37.   FlowLayout 🌊
+38.   GridLayout 🔳
+39. LayeredPane 📚
+40.   open a new GUI window 🗔
+41.   JOptionPane 🛑
+42.  textfield 📛
+43.  checkbox ✔️
+44.   radio buttons 🔘
+45.   combobox 📑
+46.   slider 🌡️
+47.   progress bar 📊
+48.   menubar 🗄️
+49.   select a file 🔎
+50.   color chooser 🎨
+51.   KeyListener 🚀
+52.   MouseListener 🖱️
+53.   drag and drop 👈
+54.   key bindings ⌨️
+55.   2D graphics 🖍️
+56.   2D animation 👾
+57.  generics ❓
+58.   serialization 🥣
+59.   TimerTask ⌚
+60.  threads 🧵
+61.   multithreading 🧶
+62.   packages 📦
+63.   compile/run command prompt 💽
+64.  executable (.jar) ☕
 
