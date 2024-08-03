@@ -15,7 +15,7 @@ I just record the code from the course " Java Full Course for free ☕ (FREE)" w
 Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode).
 
 
-**Table of Contents**
+**Table of Contents**+
 
 
 <ol>
@@ -24,7 +24,8 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 
 
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/4_user_input/Main.java'>user input ⌨️ </li>
-
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/expressions/Main.java'> expressions 🧮 </li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Gui_intro/Main.java'> GUI intro 🚩 </li>
 <ol>
 
 
