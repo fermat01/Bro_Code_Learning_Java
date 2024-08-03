@@ -24,8 +24,12 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 
 
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/4_user_input/Main.java'>user input ⌨️ </li>
-<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/expressions/Main.java'> expressions 🧮 </li>
-<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Gui_intro/Main.java'> GUI intro 🚩 </li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/expressions/Main.java'> expressions 🧮</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Gui_intro/Main.java'> GUI intro🚩 </li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Math_class/Main.java'> Math class📐</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Random_numbers/Main.java'>Random numbers🎲</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/If_statements/Main.java'> if statements🚧</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/switch_statements/Main.java'>switches⬇</li>
 <ol>
 
 
