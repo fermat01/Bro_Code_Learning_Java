@@ -30,6 +30,9 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Random_numbers/Main.java'>Random numbers🎲</li>
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/If_statements/Main.java'> if statements🚧</li>
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/switch_statements/Main.java'>switches⬇</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Logical_operators/Main.java'>logical operators❗</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Logical_operators/Main.java'>while loop 🔄</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Logical_operators/Main.java'>for loop ➰</li>
 <ol>
 
 
