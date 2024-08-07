@@ -31,8 +31,11 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/If_statements/Main.java'> if statements🚧</li>
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/switch_statements/Main.java'>switches⬇</li>
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Logical_operators/Main.java'>logical operators❗</li>
-<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Logical_operators/Main.java'>while loop 🔄</li>
-<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Logical_operators/Main.java'>for loop ➰</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/While_loop/Main.java'>while loop 🔄</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/For_loop/Main.java'>for loop ➰</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Nested_loops/Main.java'>nested loops ➿</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Arrays/Main.java'>arrays 🚗</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Arrays/Main.java'>2D arrays 🚚</li>
 <ol>
 
 
