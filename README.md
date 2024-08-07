@@ -35,6 +35,7 @@ Here is the tutorial video's [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/For_loop/Main.java'>for loop ➰</li>
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Nested_loops/Main.java'>nested loops ➿</li>
 <li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Arrays/Main.java'>arrays 🚗</li>
+<li><a href='https://github.com/fermat01/Bro_Code_Learning_Java/blob/master/programs/Arrays/Main.java'>2D arrays 🚚</li>
 <ol>
 
 
