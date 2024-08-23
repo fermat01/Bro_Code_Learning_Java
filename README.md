@@ -1,4 +1,4 @@
-# Bro_Code_Learning_Java
+# Learning_Java_Bro_Code
 
 
 ![GitHub](https://img.shields.io/github/license/fermat01/Bro_Code_Learning_Java?style=flat)
